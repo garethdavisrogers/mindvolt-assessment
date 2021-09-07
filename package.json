@@ -5,8 +5,8 @@
   "main": "server/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack -w",
-    "start": "node server/index.js & webpack"
+    "build": "webpack",
+    "start": "node server/index.js"
   },
   "keywords": [],
   "author": "",
